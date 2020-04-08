@@ -1,16 +1,5 @@
 # CalculoCUIL-Dart
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Esto lo hice en el transcurso de 1 mes mientras aprendia a usar Flutter para el desarrollo de aplicaciones para celulares.
+Como el nombre del repo lo dice, esto es un generador o calculador de cuit-cuil (Arg). 
+Se introduce el documento de la persona que quieren saber el cuit-cuil y la aplicacion hace todos los calculos necesarios para generar el cuit.
